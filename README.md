@@ -24,3 +24,8 @@
 
 ### Done
 ---
+| Date | Task | Description |
+| --- | --- | --- |
+| 10th jan - 13th jan | Search video editing tool | <ul><li>Search which tool can precisely cut the videos by practically using them</li><li>Each person will share idea about how a video can be cut in very short time</li></ul> |
+| 14th jan - 15th jan | Search appropriate dataset structure | <ul><li>Get idea about Bangla language based dataset<li>Search approximately how many words are enough to cover all the Bangla words<li>Search which words are mostly used in Bangla<li>Search which words will be in our dataset<li>Get idea about how many speakers will be enough for our dataset<li>Select the speakers</li></ul> |
+| 16th jan | Meeting | Discussion about dataset building |
